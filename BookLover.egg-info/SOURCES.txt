@@ -1,0 +1,8 @@
+setup.py
+BookLover/BookLover.py
+BookLover/__init__.py
+BookLover.egg-info/PKG-INFO
+BookLover.egg-info/SOURCES.txt
+BookLover.egg-info/dependency_links.txt
+BookLover.egg-info/requires.txt
+BookLover.egg-info/top_level.txt
